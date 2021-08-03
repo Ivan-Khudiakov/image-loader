@@ -1,0 +1,6 @@
+.images-list {
+    display: flex;
+    justify-content: center;
+    max-width: 1000px;
+    margin: 20px;
+}
